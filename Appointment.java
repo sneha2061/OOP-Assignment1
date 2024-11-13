@@ -20,7 +20,6 @@ public class Appointment {
         System.out.println("Patient Name: " + patientName);
         System.out.println("Mobile: " + patientMobile);
         System.out.println("Time Slot: " + timeSlot);
-        System.out.println("Doctor: ");
         healthProfessional.printDetails();
     }
 
